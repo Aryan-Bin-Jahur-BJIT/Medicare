@@ -1,0 +1,7 @@
+Created on 14 nov,2024
+$git gui
+$git commit -m "Style: ...." -m "Body: ...." -m "Refs: ...."
+$git log -2
+git merge --abort
+////copy specific commit into different branch/////
+git chery-pick commit-hash-from-differnt-branch
